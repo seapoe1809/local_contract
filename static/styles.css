@@ -1,7 +1,7 @@
 @media (max-width: 500px) {
     body {
         background-position: top;
-        background-image: url("bkg0.png"); /* Replace "bkg0.png" with your actual mobile background image path */
+        background-image: url("bkg_blue.png"); /* Replace "bkg0.png" with your actual mobile background image path */
         background-size: stretch; /* Stretch the background image to cover the entire screen */
     }
 
@@ -20,7 +20,7 @@
 @media (min-width: 501px) {
     body {
         background-position: top;
-        background-image: url("bkg0.png"); /* Replace "bkg0.png" with your actual desktop background image path */
+        background-image: url("bkg_blue.png"); /* Replace "bkg0.png" with your actual desktop background image path */
     }
 }
 
